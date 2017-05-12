@@ -1,4 +1,4 @@
-package com.iteso.caravans;
+package mx.iteso.myfirstapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.iteso.caravans", appContext.getPackageName());
+        assertEquals("mx.iteso.myfirstapp", appContext.getPackageName());
     }
 }

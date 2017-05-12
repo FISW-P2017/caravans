@@ -1,4 +1,4 @@
-package com.iteso.caravans;
+package mx.iteso.myfirstapp;
 
 import org.junit.Test;
 
