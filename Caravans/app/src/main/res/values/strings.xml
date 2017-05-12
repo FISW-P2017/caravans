@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Caravans</string>
+    <string-array name = "type">
+        <item>Carro privado</item>
+        <item>Carro público</item>
+        <item>Camión público</item>
+        <item>Camión privado</item>
+    </string-array>
+    <string-array name="color">
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Morado</item>
+        <item>Azul</item>
+        <item>Negro</item>
+        <item>Café</item>
+        <item>Naranja</item>
+        <item>Rosa</item>
+    </string-array>
 </resources>
