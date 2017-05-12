@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Caravans</string>
+    <string name="title_activity_movie_detail">Menu principal</string>
+    <string name="large_text">
+        "Caravans\n\n"
+
+        "BIENVENIDO A TU APLICACIÓN FAVORITA:
+            CARAVANS"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
