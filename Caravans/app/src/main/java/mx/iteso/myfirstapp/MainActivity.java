@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         try{
            // fos = openFileOutput(FILENAME, Context.MODE_ENABLE_WRITE_AHEAD_LOGGING);
+            //To reset uncoment line 35
             //fos.write(0);
             fis = openFileInput(FILENAME);
             name = fis.read();
